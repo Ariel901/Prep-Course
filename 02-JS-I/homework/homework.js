@@ -1,7 +1,7 @@
  //En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "camaras";
+const nuevaString = "cctv";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 20;
@@ -271,7 +271,7 @@ function esVocal(letra){
   
   if (letra.length > 1) {
     return "Dato incorrecto";
-    
+
   }
   if (letra === "a") {
     return "Es vocal";
